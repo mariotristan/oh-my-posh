@@ -11,7 +11,7 @@
     "error-background": "#dd0033",
     "error-text": "#242424",
     "git-text": "#238636",
-    "kubernetes-text": "#FFBB00",
+    "kubernetes-text": "#4285F4",
     "talosctl-text": "#FF6C00",
     "symbol-color": "#ffffff",
     "timer-text": "#dd0033"
