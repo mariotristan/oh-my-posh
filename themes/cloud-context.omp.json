@@ -37,7 +37,7 @@
           "foreground": "p:kubernetes-text",
           "style": "powerline",
           "powerline_symbol": "\ue0b4",
-          "template": "<p:symbol-color>\uf10fe</> {{.Context}}{{if .Namespace}} \uf061 {{.Namespace}}{{end}}",
+          "template": "<p:symbol-color>\uf308</> {{.Context}}{{if .Namespace}} \uf061 {{.Namespace}}{{end}}",
           "type": "kubectl"
         },
         {
